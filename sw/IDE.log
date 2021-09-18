@@ -1,0 +1,9 @@
+11:45:56 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\swetha.sridhar\Desktop\Projects\Attocam\Play-around\LED_Tap_GPIO\sw\temp_xsdb_launch_script.tcl
+11:45:58 INFO  : Registering command handlers for Vitis TCF services
+11:46:04 INFO  : Platform repository initialization has completed.
+11:46:05 INFO  : XSCT server has started successfully.
+11:46:05 INFO  : Successfully done setting XSCT server connection channel  
+11:46:05 INFO  : plnx-install-location is set to ''
+11:46:06 INFO  : Successfully done setting workspace for the tool. 
+11:46:06 INFO  : Successfully done query RDI_DATADIR 
+11:46:34 INFO  : Platform 'Tap' is added to custom repositories.

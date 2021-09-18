@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="led_tap" location="C:/Users/swetha.sridhar/Desktop/Projects/Attocam/Play-around/LED_Tap_GPIO/LED_Tap_GPIO/led_tap" platform="C:/Users/swetha.sridhar/Desktop/Projects/Attocam/Play-around/LED_Tap_GPIO/LED_Tap_GPIO/Tap/export/Tap/Tap.xpfm" platformUID="xilinx:ac701::0.0(custom)" systemProject="led_tap_system" sysConfig="Tap" runtime="C/C++" cpu="standalone_domain" cpuInstance="microblaze_0" os="standalone" mssSignature="6774b3951f329912624433626bc88f3b">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.1272264742">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.1260098120" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>
